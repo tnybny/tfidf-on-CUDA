@@ -1,0 +1,856 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0.014551, Airline_Safety/article02.txt
+0.015394, Mortgage_Rates/article04.txt
+0.015557, Volcano/article06.txt
+0.017217, China_and_Spy_Plane_and_Captives/article02.txt
+0.018716, Volcano/article03.txt
+0.019137, Amphetamine/article10.txt
+0.019998, China_and_Spy_Plane_and_Captives/article02.txt
+0.021717, Airline_Safety/article02.txt
+0.021798, Saddam_Hussein_and_WMD/article05.txt
+0.023038, Ocean_and_Pollution/article05.txt
+0.023302, Korea_and_Nuclear_Capability/article01.txt
+0.023970, Saddam_Hussein_and_WMD/article03.txt
+0.024596, Saddam_Hussein_and_WMD/article06.txt
+0.028712, Hoof_and_Mouth_Disease/article09.txt
+0.030228, Korea_and_Nuclear_Capability/article01.txt
+0.032509, Korea_and_Nuclear_Capability/article02.txt
+0.034290, Satanic_Cult/article04.txt
+0.036837, Hoof_and_Mouth_Disease/article09.txt
+0.037132, Korea_and_Nuclear_Capability/article03.txt
+0.039149, Saddam_Hussein_and_WMD/article03.txt
+0.039435, Korea_and_Nuclear_Capability/article05.txt
+0.039456, Hoof_and_Mouth_Disease/article07.txt
+0.039572, Ocean_and_Pollution/article01.txt
+0.039572, Ocean_and_Pollution/article02.txt
+0.040715, Korea_and_Nuclear_Capability/article03.txt
+0.041990, China_and_Spy_Plane_and_Captives/article01.txt
+0.042447, Hoof_and_Mouth_Disease/article07.txt
+0.042797, Amphetamine/article10.txt
+0.044234, Hoof_and_Mouth_Disease/article02.txt
+0.044234, Volcano/article06.txt
+0.044729, Airline_Safety/article06.txt
+0.044746, Hoof_and_Mouth_Disease/article07.txt
+0.045269, Hoof_and_Mouth_Disease/article09.txt
+0.045732, Saddam_Hussein_and_WMD/article02.txt
+0.046214, Volcano/article05.txt
+0.046268, Saddam_Hussein_and_WMD/article04.txt
+0.046597, Saddam_Hussein_and_WMD/article09.txt
+0.046780, Saddam_Hussein_and_WMD/article04.txt
+0.047469, Airline_Safety/article09.txt
+0.047814, China_and_Spy_Plane_and_Captives/article04.txt
+0.047814, Hoof_and_Mouth_Disease/article01.txt
+0.048726, Airline_Safety/article08.txt
+0.048775, Ocean_and_Pollution/article07.txt
+0.050023, Ocean_and_Pollution/article01.txt
+0.050023, Ocean_and_Pollution/article02.txt
+0.050643, Ocean_and_Pollution/article01.txt
+0.050643, Ocean_and_Pollution/article02.txt
+0.051652, Airline_Safety/article01.txt
+0.051970, Korea_and_Nuclear_Capability/article03.txt
+0.054077, Airline_Safety/article07.txt
+0.054564, Volcano/article06.txt
+0.054564, Volcano/article08.txt
+0.054684, Korea_and_Nuclear_Capability/article05.txt
+0.055242, Korea_and_Nuclear_Capability/article02.txt
+0.055826, Korea_and_Nuclear_Capability/article05.txt
+0.056338, Saddam_Hussein_and_WMD/article01.txt
+0.057604, Ocean_and_Pollution/article06.txt
+0.058150, Korea_and_Nuclear_Capability/article04.txt
+0.058445, Korea_and_Nuclear_Capability/article03.txt
+0.059031, Hoof_and_Mouth_Disease/article08.txt
+0.059821, Airline_Safety/article08.txt
+0.059883, Airline_Safety/article09.txt
+0.060580, Airline_Safety/article02.txt
+0.060580, China_and_Spy_Plane_and_Captives/article03.txt
+0.060832, Volcano/article03.txt
+0.060832, Volcano/article04.txt
+0.060912, Volcano/article03.txt
+0.060912, Volcano/article08.txt
+0.062231, Hoof_and_Mouth_Disease/article08.txt
+0.062501, Airline_Safety/article07.txt
+0.062958, Amphetamine/article02.txt
+0.063117, China_and_Spy_Plane_and_Captives/article01.txt
+0.063340, Saddam_Hussein_and_WMD/article09.txt
+0.064039, China_and_Spy_Plane_and_Captives/article02.txt
+0.064233, Airline_Safety/article02.txt
+0.064233, Airline_Safety/article05.txt
+0.064496, Ocean_and_Pollution/article08.txt
+0.065200, Ocean_and_Pollution/article08.txt
+0.065472, Korea_and_Nuclear_Capability/article03.txt
+0.065629, Ocean_and_Pollution/article08.txt
+0.066068, Ocean_and_Pollution/article08.txt
+0.066123, Korea_and_Nuclear_Capability/article03.txt
+0.066570, Saddam_Hussein_and_WMD/article05.txt
+0.066806, Hoof_and_Mouth_Disease/article03.txt
+0.066861, Ocean_and_Pollution/article05.txt
+0.066986, Airline_Safety/article10.txt
+0.067446, Volcano/article02.txt
+0.067446, Volcano/article04.txt
+0.068661, Saddam_Hussein_and_WMD/article05.txt
+0.068674, Airline_Safety/article06.txt
+0.068803, Volcano/article02.txt
+0.068803, Volcano/article08.txt
+0.068818, Airline_Safety/article04.txt
+0.068818, Volcano/article02.txt
+0.069292, Saddam_Hussein_and_WMD/article04.txt
+0.069338, Airline_Safety/article09.txt
+0.069620, Hoof_and_Mouth_Disease/article05.txt
+0.070475, Ocean_and_Pollution/article01.txt
+0.070475, Ocean_and_Pollution/article02.txt
+0.070648, Korea_and_Nuclear_Capability/article03.txt
+0.071151, Hoof_and_Mouth_Disease/article03.txt
+0.073387, Ocean_and_Pollution/article05.txt
+0.073469, Airline_Safety/article07.txt
+0.074107, Satanic_Cult/article03.txt
+0.074107, Satanic_Cult/article04.txt
+0.074121, Volcano/article02.txt
+0.074121, Volcano/article06.txt
+0.074722, Airline_Safety/article09.txt
+0.074794, Saddam_Hussein_and_WMD/article01.txt
+0.075173, Korea_and_Nuclear_Capability/article03.txt
+0.075379, Saddam_Hussein_and_WMD/article01.txt
+0.075537, Airline_Safety/article07.txt
+0.075537, Airline_Safety/article10.txt
+0.075894, Korea_and_Nuclear_Capability/article05.txt
+0.075894, Volcano/article05.txt
+0.077676, Satanic_Cult/article04.txt
+0.077676, Volcano/article01.txt
+0.077800, Hoof_and_Mouth_Disease/article03.txt
+0.077827, Volcano/article06.txt
+0.077827, Volcano/article07.txt
+0.078946, Korea_and_Nuclear_Capability/article01.txt
+0.078990, Saddam_Hussein_and_WMD/article06.txt
+0.078990, Saddam_Hussein_and_WMD/article08.txt
+0.081284, Volcano/article01.txt
+0.081284, Volcano/article06.txt
+0.081672, Korea_and_Nuclear_Capability/article04.txt
+0.081672, Volcano/article07.txt
+0.081819, Saddam_Hussein_and_WMD/article04.txt
+0.082092, Saddam_Hussein_and_WMD/article09.txt
+0.082244, Hoof_and_Mouth_Disease/article09.txt
+0.082244, Volcano/article05.txt
+0.082461, Saddam_Hussein_and_WMD/article01.txt
+0.082598, Airline_Safety/article07.txt
+0.082598, Airline_Safety/article09.txt
+0.083092, Korea_and_Nuclear_Capability/article04.txt
+0.083092, Volcano/article02.txt
+0.083788, Satanic_Cult/article01.txt
+0.083788, Satanic_Cult/article04.txt
+0.083832, Amphetamine/article09.txt
+0.083964, Amphetamine/article08.txt
+0.083993, Saddam_Hussein_and_WMD/article02.txt
+0.084368, Airline_Safety/article02.txt
+0.084368, Airline_Safety/article06.txt
+0.084987, Saddam_Hussein_and_WMD/article09.txt
+0.085550, Airline_Safety/article03.txt
+0.086344, Airline_Safety/article09.txt
+0.086344, China_and_Spy_Plane_and_Captives/article03.txt
+0.086365, Korea_and_Nuclear_Capability/article01.txt
+0.086910, Hoof_and_Mouth_Disease/article05.txt
+0.086910, Korea_and_Nuclear_Capability/article04.txt
+0.086949, Airline_Safety/article08.txt
+0.087298, Hoof_and_Mouth_Disease/article05.txt
+0.087298, Korea_and_Nuclear_Capability/article05.txt
+0.087758, Satanic_Cult/article01.txt
+0.087758, Satanic_Cult/article03.txt
+0.089000, China_and_Spy_Plane_and_Captives/article02.txt
+0.089000, Korea_and_Nuclear_Capability/article02.txt
+0.089150, Airline_Safety/article08.txt
+0.089150, Satanic_Cult/article04.txt
+0.089219, Volcano/article01.txt
+0.089219, Volcano/article08.txt
+0.089278, Satanic_Cult/article02.txt
+0.089278, Satanic_Cult/article04.txt
+0.089303, Airline_Safety/article05.txt
+0.089303, Airline_Safety/article06.txt
+0.089809, Airline_Safety/article03.txt
+0.090185, Amphetamine/article09.txt
+0.090259, Saddam_Hussein_and_WMD/article04.txt
+0.090326, Amphetamine/article08.txt
+0.090491, Airline_Safety/article03.txt
+0.090696, Airline_Safety/article01.txt
+0.090696, Airline_Safety/article02.txt
+0.090791, Ocean_and_Pollution/article08.txt
+0.090911, Airline_Safety/article06.txt
+0.090911, Airline_Safety/article10.txt
+0.090940, Volcano/article01.txt
+0.090940, Volcano/article04.txt
+0.091674, Ocean_and_Pollution/article06.txt
+0.091770, Amphetamine/article04.txt
+0.092389, Airline_Safety/article09.txt
+0.092389, Airline_Safety/article10.txt
+0.093132, Saddam_Hussein_and_WMD/article06.txt
+0.093132, Saddam_Hussein_and_WMD/article07.txt
+0.093431, Saddam_Hussein_and_WMD/article05.txt
+0.093523, Airline_Safety/article04.txt
+0.093523, Airline_Safety/article08.txt
+0.093645, Volcano/article07.txt
+0.093645, Volcano/article08.txt
+0.093805, Saddam_Hussein_and_WMD/article04.txt
+0.093954, Volcano/article04.txt
+0.093954, Volcano/article06.txt
+0.096098, Airline_Safety/article01.txt
+0.096098, Airline_Safety/article09.txt
+0.096618, Hoof_and_Mouth_Disease/article02.txt
+0.096618, Hoof_and_Mouth_Disease/article07.txt
+0.097384, Saddam_Hussein_and_WMD/article05.txt
+0.097475, Airline_Safety/article07.txt
+0.097475, China_and_Spy_Plane_and_Captives/article02.txt
+0.097690, Saddam_Hussein_and_WMD/article09.txt
+0.097993, Hoof_and_Mouth_Disease/article04.txt
+0.097993, Hoof_and_Mouth_Disease/article08.txt
+0.098255, Volcano/article01.txt
+0.098255, Volcano/article03.txt
+0.098623, Volcano/article04.txt
+0.098623, Volcano/article07.txt
+0.098750, Airline_Safety/article08.txt
+0.098750, Airline_Safety/article09.txt
+0.099294, Hoof_and_Mouth_Disease/article05.txt
+0.099294, Hoof_and_Mouth_Disease/article07.txt
+0.100174, Hoof_and_Mouth_Disease/article01.txt
+0.100174, Hoof_and_Mouth_Disease/article07.txt
+0.101185, Ocean_and_Pollution/article08.txt
+0.101542, Ocean_and_Pollution/article08.txt
+0.102716, Amphetamine/article01.txt
+0.104237, Saddam_Hussein_and_WMD/article09.txt
+0.105620, Airline_Safety/article04.txt
+0.105620, Airline_Safety/article09.txt
+0.107394, Saddam_Hussein_and_WMD/article08.txt
+0.107394, Saddam_Hussein_and_WMD/article10.txt
+0.108122, Hoof_and_Mouth_Disease/article03.txt
+0.108122, Hoof_and_Mouth_Disease/article05.txt
+0.108510, Hoof_and_Mouth_Disease/article08.txt
+0.108510, Hoof_and_Mouth_Disease/article09.txt
+0.109629, Airline_Safety/article05.txt
+0.109629, Airline_Safety/article07.txt
+0.110435, Hoof_and_Mouth_Disease/article01.txt
+0.110435, Hoof_and_Mouth_Disease/article08.txt
+0.111421, Satanic_Cult/article01.txt
+0.111421, Satanic_Cult/article02.txt
+0.111633, Airline_Safety/article06.txt
+0.111633, Airline_Safety/article07.txt
+0.111780, Hoof_and_Mouth_Disease/article05.txt
+0.111780, Hoof_and_Mouth_Disease/article06.txt
+0.112105, Airline_Safety/article07.txt
+0.112105, China_and_Spy_Plane_and_Captives/article03.txt
+0.112784, Amphetamine/article07.txt
+0.113087, Amphetamine/article05.txt
+0.113087, Amphetamine/article06.txt
+0.113487, Saddam_Hussein_and_WMD/article01.txt
+0.114065, Hoof_and_Mouth_Disease/article06.txt
+0.114065, Hoof_and_Mouth_Disease/article09.txt
+0.114930, Hoof_and_Mouth_Disease/article07.txt
+0.114930, Hoof_and_Mouth_Disease/article09.txt
+0.114988, Airline_Safety/article03.txt
+0.114988, Airline_Safety/article07.txt
+0.115110, Saddam_Hussein_and_WMD/article05.txt
+0.115601, Hoof_and_Mouth_Disease/article02.txt
+0.115601, Hoof_and_Mouth_Disease/article06.txt
+0.116329, Saddam_Hussein_and_WMD/article04.txt
+0.116853, Airline_Safety/article03.txt
+0.116853, Airline_Safety/article10.txt
+0.118108, Volcano/article02.txt
+0.118108, Volcano/article03.txt
+0.120927, Airline_Safety/article04.txt
+0.120927, Airline_Safety/article05.txt
+0.121340, Hoof_and_Mouth_Disease/article02.txt
+0.121340, Hoof_and_Mouth_Disease/article03.txt
+0.123345, Ocean_and_Pollution/article01.txt
+0.123345, Ocean_and_Pollution/article02.txt
+0.123571, Hoof_and_Mouth_Disease/article02.txt
+0.123571, Hoof_and_Mouth_Disease/article08.txt
+0.123714, Amphetamine/article07.txt
+0.126649, Saddam_Hussein_and_WMD/article04.txt
+0.126822, Airline_Safety/article06.txt
+0.126822, Airline_Safety/article08.txt
+0.127116, Saddam_Hussein_and_WMD/article03.txt
+0.128145, Saddam_Hussein_and_WMD/article01.txt
+0.128249, Ocean_and_Pollution/article01.txt
+0.128249, Ocean_and_Pollution/article02.txt
+0.129591, Saddam_Hussein_and_WMD/article01.txt
+0.132456, Airline_Safety/article05.txt
+0.132456, Airline_Safety/article10.txt
+0.132841, Saddam_Hussein_and_WMD/article09.txt
+0.132916, Airline_Safety/article09.txt
+0.132916, Saddam_Hussein_and_WMD/article03.txt
+0.133369, Airline_Safety/article01.txt
+0.133369, Airline_Safety/article04.txt
+0.133806, Amphetamine/article05.txt
+0.133806, Amphetamine/article06.txt
+0.134161, Amphetamine/article04.txt
+0.135113, Airline_Safety/article07.txt
+0.135113, Airline_Safety/article08.txt
+0.135166, Volcano/article03.txt
+0.135166, Volcano/article07.txt
+0.137557, Hoof_and_Mouth_Disease/article04.txt
+0.137557, Hoof_and_Mouth_Disease/article07.txt
+0.138366, Amphetamine/article04.txt
+0.138938, Mortgage_Rates/article04.txt
+0.138938, Mortgage_Rates/article05.txt
+0.139582, Airline_Safety/article01.txt
+0.139582, Airline_Safety/article03.txt
+0.139598, Ocean_and_Pollution/article05.txt
+0.140530, Airline_Safety/article01.txt
+0.140530, Airline_Safety/article06.txt
+0.141342, Korea_and_Nuclear_Capability/article03.txt
+0.141342, Korea_and_Nuclear_Capability/article04.txt
+0.141717, Ocean_and_Pollution/article08.txt
+0.142163, Saddam_Hussein_and_WMD/article01.txt
+0.142176, Ocean_and_Pollution/article09.txt
+0.143549, Amphetamine/article08.txt
+0.144348, Airline_Safety/article05.txt
+0.144348, Airline_Safety/article09.txt
+0.144425, Hoof_and_Mouth_Disease/article01.txt
+0.144425, Hoof_and_Mouth_Disease/article06.txt
+0.144760, Korea_and_Nuclear_Capability/article01.txt
+0.144760, Saddam_Hussein_and_WMD/article10.txt
+0.144894, Amphetamine/article09.txt
+0.147803, Mortgage_Rates/article02.txt
+0.147803, Mortgage_Rates/article05.txt
+0.149332, Saddam_Hussein_and_WMD/article04.txt
+0.149332, Saddam_Hussein_and_WMD/article08.txt
+0.150122, Saddam_Hussein_and_WMD/article02.txt
+0.150122, Saddam_Hussein_and_WMD/article06.txt
+0.150702, Airline_Safety/article08.txt
+0.150702, Airline_Safety/article10.txt
+0.154487, Ocean_and_Pollution/article10.txt
+0.155373, Airline_Safety/article03.txt
+0.155373, Airline_Safety/article08.txt
+0.155837, Saddam_Hussein_and_WMD/article03.txt
+0.155837, Saddam_Hussein_and_WMD/article10.txt
+0.156158, Ocean_and_Pollution/article09.txt
+0.156414, Hoof_and_Mouth_Disease/article05.txt
+0.156414, Hoof_and_Mouth_Disease/article09.txt
+0.159207, Saddam_Hussein_and_WMD/article01.txt
+0.159207, Saddam_Hussein_and_WMD/article08.txt
+0.159492, Ocean_and_Pollution/article03.txt
+0.161749, Volcano/article03.txt
+0.161749, Volcano/article06.txt
+0.162814, Saddam_Hussein_and_WMD/article07.txt
+0.162814, Saddam_Hussein_and_WMD/article08.txt
+0.163347, Saddam_Hussein_and_WMD/article09.txt
+0.163347, Saddam_Hussein_and_WMD/article10.txt
+0.164329, Hoof_and_Mouth_Disease/article04.txt
+0.164329, Hoof_and_Mouth_Disease/article06.txt
+0.165033, Hoof_and_Mouth_Disease/article02.txt
+0.165033, Hoof_and_Mouth_Disease/article09.txt
+0.165165, Airline_Safety/article03.txt
+0.165165, Airline_Safety/article05.txt
+0.165443, Airline_Safety/article05.txt
+0.165443, Airline_Safety/article08.txt
+0.165773, Ocean_and_Pollution/article10.txt
+0.165810, Volcano/article01.txt
+0.165810, Volcano/article02.txt
+0.166008, Saddam_Hussein_and_WMD/article05.txt
+0.166527, Volcano/article01.txt
+0.166527, Volcano/article07.txt
+0.168490, Korea_and_Nuclear_Capability/article01.txt
+0.168490, Korea_and_Nuclear_Capability/article02.txt
+0.170549, Airline_Safety/article01.txt
+0.170549, Airline_Safety/article05.txt
+0.171549, Ocean_and_Pollution/article03.txt
+0.172061, Hoof_and_Mouth_Disease/article01.txt
+0.172061, Hoof_and_Mouth_Disease/article03.txt
+0.176010, Mortgage_Rates/article06.txt
+0.176010, Mortgage_Rates/article07.txt
+0.176048, Korea_and_Nuclear_Capability/article03.txt
+0.176048, Korea_and_Nuclear_Capability/article05.txt
+0.177365, Airline_Safety/article01.txt
+0.177365, Airline_Safety/article10.txt
+0.178975, Hoof_and_Mouth_Disease/article04.txt
+0.178975, Hoof_and_Mouth_Disease/article05.txt
+0.180498, China_and_Spy_Plane_and_Captives/article02.txt
+0.180498, China_and_Spy_Plane_and_Captives/article04.txt
+0.182915, Saddam_Hussein_and_WMD/article03.txt
+0.182915, Saddam_Hussein_and_WMD/article08.txt
+0.183576, Ocean_and_Pollution/article01.txt
+0.183576, Ocean_and_Pollution/article02.txt
+0.183623, Saddam_Hussein_and_WMD/article05.txt
+0.183649, Hoof_and_Mouth_Disease/article02.txt
+0.183649, Hoof_and_Mouth_Disease/article05.txt
+0.183843, Airline_Safety/article01.txt
+0.183843, Airline_Safety/article08.txt
+0.185164, Saddam_Hussein_and_WMD/article07.txt
+0.185164, Saddam_Hussein_and_WMD/article10.txt
+0.187028, Ocean_and_Pollution/article10.txt
+0.191507, Mortgage_Rates/article04.txt
+0.191507, Mortgage_Rates/article07.txt
+0.191615, Ocean_and_Pollution/article09.txt
+0.191615, Volcano/article04.txt
+0.192634, Ocean_and_Pollution/article03.txt
+0.193032, Saddam_Hussein_and_WMD/article05.txt
+0.194243, Hoof_and_Mouth_Disease/article06.txt
+0.194243, Hoof_and_Mouth_Disease/article08.txt
+0.196029, Ocean_and_Pollution/article01.txt
+0.196029, Ocean_and_Pollution/article02.txt
+0.196462, Korea_and_Nuclear_Capability/article01.txt
+0.196462, Saddam_Hussein_and_WMD/article04.txt
+0.197002, China_and_Spy_Plane_and_Captives/article01.txt
+0.197002, China_and_Spy_Plane_and_Captives/article04.txt
+0.198312, Ocean_and_Pollution/article09.txt
+0.198312, Volcano/article08.txt
+0.199620, Saddam_Hussein_and_WMD/article03.txt
+0.199620, Saddam_Hussein_and_WMD/article07.txt
+0.201473, Mortgage_Rates/article01.txt
+0.201473, Mortgage_Rates/article04.txt
+0.202301, Mortgage_Rates/article05.txt
+0.202301, Mortgage_Rates/article08.txt
+0.203659, Mortgage_Rates/article03.txt
+0.203659, Mortgage_Rates/article05.txt
+0.205008, Amphetamine/article05.txt
+0.205008, Amphetamine/article06.txt
+0.205329, Amphetamine/article05.txt
+0.205329, Amphetamine/article06.txt
+0.205891, Saddam_Hussein_and_WMD/article03.txt
+0.205891, Saddam_Hussein_and_WMD/article05.txt
+0.206356, Mortgage_Rates/article05.txt
+0.206356, Mortgage_Rates/article06.txt
+0.207150, China_and_Spy_Plane_and_Captives/article01.txt
+0.207150, China_and_Spy_Plane_and_Captives/article03.txt
+0.207203, Saddam_Hussein_and_WMD/article02.txt
+0.207203, Saddam_Hussein_and_WMD/article08.txt
+0.207855, Amphetamine/article05.txt
+0.207855, Amphetamine/article06.txt
+0.208561, Amphetamine/article05.txt
+0.208561, Amphetamine/article06.txt
+0.208592, Hoof_and_Mouth_Disease/article07.txt
+0.208592, Hoof_and_Mouth_Disease/article08.txt
+0.209040, Ocean_and_Pollution/article08.txt
+0.211574, Korea_and_Nuclear_Capability/article03.txt
+0.211574, Saddam_Hussein_and_WMD/article05.txt
+0.212519, Airline_Safety/article04.txt
+0.212519, Airline_Safety/article10.txt
+0.213060, Hoof_and_Mouth_Disease/article02.txt
+0.213060, Hoof_and_Mouth_Disease/article04.txt
+0.214267, Saddam_Hussein_and_WMD/article02.txt
+0.214267, Saddam_Hussein_and_WMD/article09.txt
+0.216200, Ocean_and_Pollution/article10.txt
+0.217401, Saddam_Hussein_and_WMD/article02.txt
+0.217401, Saddam_Hussein_and_WMD/article05.txt
+0.217529, Saddam_Hussein_and_WMD/article07.txt
+0.217529, Saddam_Hussein_and_WMD/article09.txt
+0.222331, Ocean_and_Pollution/article04.txt
+0.222331, Ocean_and_Pollution/article07.txt
+0.222535, Mortgage_Rates/article06.txt
+0.222535, Mortgage_Rates/article08.txt
+0.222891, Amphetamine/article10.txt
+0.223239, Amphetamine/article10.txt
+0.223453, Mortgage_Rates/article04.txt
+0.223453, Mortgage_Rates/article08.txt
+0.226158, Korea_and_Nuclear_Capability/article03.txt
+0.226158, Saddam_Hussein_and_WMD/article09.txt
+0.227017, Ocean_and_Pollution/article03.txt
+0.231261, Amphetamine/article10.txt
+0.231641, Ocean_and_Pollution/article01.txt
+0.231641, Ocean_and_Pollution/article02.txt
+0.232728, Hoof_and_Mouth_Disease/article06.txt
+0.232728, Hoof_and_Mouth_Disease/article07.txt
+0.232894, Mortgage_Rates/article02.txt
+0.232894, Mortgage_Rates/article04.txt
+0.233090, Saddam_Hussein_and_WMD/article04.txt
+0.233090, Saddam_Hussein_and_WMD/article05.txt
+0.234002, Hoof_and_Mouth_Disease/article01.txt
+0.234002, Hoof_and_Mouth_Disease/article09.txt
+0.234923, Korea_and_Nuclear_Capability/article01.txt
+0.234923, Saddam_Hussein_and_WMD/article01.txt
+0.238256, Airline_Safety/article02.txt
+0.238256, Airline_Safety/article07.txt
+0.238745, China_and_Spy_Plane_and_Captives/article02.txt
+0.238745, China_and_Spy_Plane_and_Captives/article03.txt
+0.239751, Mortgage_Rates/article02.txt
+0.239751, Mortgage_Rates/article06.txt
+0.241435, Ocean_and_Pollution/article05.txt
+0.241435, Ocean_and_Pollution/article06.txt
+0.244252, Korea_and_Nuclear_Capability/article01.txt
+0.244252, Korea_and_Nuclear_Capability/article04.txt
+0.251102, Saddam_Hussein_and_WMD/article02.txt
+0.251102, Saddam_Hussein_and_WMD/article03.txt
+0.251240, China_and_Spy_Plane_and_Captives/article03.txt
+0.251240, China_and_Spy_Plane_and_Captives/article04.txt
+0.251787, Mortgage_Rates/article03.txt
+0.251787, Mortgage_Rates/article04.txt
+0.253695, Mortgage_Rates/article01.txt
+0.253695, Mortgage_Rates/article05.txt
+0.254847, Ocean_and_Pollution/article10.txt
+0.256234, Amphetamine/article05.txt
+0.256234, Amphetamine/article06.txt
+0.256887, Hoof_and_Mouth_Disease/article01.txt
+0.256887, Hoof_and_Mouth_Disease/article05.txt
+0.257780, Saddam_Hussein_and_WMD/article02.txt
+0.257780, Saddam_Hussein_and_WMD/article07.txt
+0.257811, Saddam_Hussein_and_WMD/article04.txt
+0.257811, Saddam_Hussein_and_WMD/article09.txt
+0.260157, Saddam_Hussein_and_WMD/article02.txt
+0.260157, Saddam_Hussein_and_WMD/article10.txt
+0.261524, Saddam_Hussein_and_WMD/article04.txt
+0.261524, Saddam_Hussein_and_WMD/article07.txt
+0.262193, Korea_and_Nuclear_Capability/article04.txt
+0.262193, Saddam_Hussein_and_WMD/article05.txt
+0.266546, Mortgage_Rates/article04.txt
+0.266546, Mortgage_Rates/article06.txt
+0.266655, Saddam_Hussein_and_WMD/article04.txt
+0.266655, Saddam_Hussein_and_WMD/article10.txt
+0.269015, Korea_and_Nuclear_Capability/article02.txt
+0.269015, Korea_and_Nuclear_Capability/article04.txt
+0.269886, Ocean_and_Pollution/article08.txt
+0.270266, Amphetamine/article10.txt
+0.272148, Ocean_and_Pollution/article03.txt
+0.272148, Ocean_and_Pollution/article05.txt
+0.274284, Saddam_Hussein_and_WMD/article01.txt
+0.274284, Saddam_Hussein_and_WMD/article10.txt
+0.274654, Saddam_Hussein_and_WMD/article01.txt
+0.274654, Saddam_Hussein_and_WMD/article09.txt
+0.275307, Mortgage_Rates/article03.txt
+0.275307, Mortgage_Rates/article06.txt
+0.277416, Ocean_and_Pollution/article01.txt
+0.277416, Ocean_and_Pollution/article02.txt
+0.284476, Saddam_Hussein_and_WMD/article01.txt
+0.284476, Saddam_Hussein_and_WMD/article07.txt
+0.285532, Korea_and_Nuclear_Capability/article02.txt
+0.285532, Saddam_Hussein_and_WMD/article05.txt
+0.285640, China_and_Spy_Plane_and_Captives/article01.txt
+0.285640, China_and_Spy_Plane_and_Captives/article02.txt
+0.287016, Ocean_and_Pollution/article08.txt
+0.288884, Saddam_Hussein_and_WMD/article03.txt
+0.288884, Saddam_Hussein_and_WMD/article09.txt
+0.288918, Korea_and_Nuclear_Capability/article01.txt
+0.288918, Korea_and_Nuclear_Capability/article05.txt
+0.289220, Korea_and_Nuclear_Capability/article01.txt
+0.289220, Saddam_Hussein_and_WMD/article09.txt
+0.291323, Hoof_and_Mouth_Disease/article04.txt
+0.291323, Hoof_and_Mouth_Disease/article09.txt
+0.293884, Ocean_and_Pollution/article01.txt
+0.293884, Ocean_and_Pollution/article02.txt
+0.296300, Mortgage_Rates/article05.txt
+0.296300, Mortgage_Rates/article07.txt
+0.296686, Mortgage_Rates/article01.txt
+0.296686, Mortgage_Rates/article02.txt
+0.298772, Hoof_and_Mouth_Disease/article01.txt
+0.298772, Hoof_and_Mouth_Disease/article04.txt
+0.302424, Mortgage_Rates/article01.txt
+0.302424, Mortgage_Rates/article06.txt
+0.303118, Saddam_Hussein_and_WMD/article03.txt
+0.303118, Saddam_Hussein_and_WMD/article04.txt
+0.307432, Mortgage_Rates/article02.txt
+0.307432, Mortgage_Rates/article07.txt
+0.309771, Hoof_and_Mouth_Disease/article01.txt
+0.309771, Hoof_and_Mouth_Disease/article02.txt
+0.314425, Hoof_and_Mouth_Disease/article03.txt
+0.314425, Hoof_and_Mouth_Disease/article04.txt
+0.315494, Saddam_Hussein_and_WMD/article01.txt
+0.315494, Saddam_Hussein_and_WMD/article02.txt
+0.319306, Hoof_and_Mouth_Disease/article03.txt
+0.319306, Hoof_and_Mouth_Disease/article09.txt
+0.320344, Saddam_Hussein_and_WMD/article01.txt
+0.320344, Saddam_Hussein_and_WMD/article03.txt
+0.320637, Korea_and_Nuclear_Capability/article02.txt
+0.320637, Korea_and_Nuclear_Capability/article03.txt
+0.327817, Korea_and_Nuclear_Capability/article01.txt
+0.327817, Saddam_Hussein_and_WMD/article05.txt
+0.328379, Korea_and_Nuclear_Capability/article01.txt
+0.328379, Korea_and_Nuclear_Capability/article03.txt
+0.329731, Saddam_Hussein_and_WMD/article02.txt
+0.329731, Saddam_Hussein_and_WMD/article04.txt
+0.334489, Amphetamine/article05.txt
+0.334489, Amphetamine/article06.txt
+0.336974, Satanic_Cult/article02.txt
+0.336974, Satanic_Cult/article03.txt
+0.355712, Saddam_Hussein_and_WMD/article01.txt
+0.355712, Saddam_Hussein_and_WMD/article05.txt
+0.356992, Korea_and_Nuclear_Capability/article02.txt
+0.356992, Korea_and_Nuclear_Capability/article05.txt
+0.360280, Amphetamine/article05.txt
+0.360280, Amphetamine/article06.txt
+0.376430, Amphetamine/article01.txt
+0.376430, Amphetamine/article03.txt
+0.378011, Mortgage_Rates/article01.txt
+0.378011, Mortgage_Rates/article08.txt
+0.379986, Korea_and_Nuclear_Capability/article05.txt
+0.379986, Saddam_Hussein_and_WMD/article05.txt
+0.380360, Mortgage_Rates/article01.txt
+0.380360, Mortgage_Rates/article03.txt
+0.385145, Amphetamine/article03.txt
+0.385145, Amphetamine/article09.txt
+0.385747, Amphetamine/article03.txt
+0.385747, Amphetamine/article08.txt
+0.399539, Ocean_and_Pollution/article08.txt
+0.399539, Ocean_and_Pollution/article09.txt
+0.401837, Saddam_Hussein_and_WMD/article01.txt
+0.401837, Saddam_Hussein_and_WMD/article04.txt
+0.414151, Mortgage_Rates/article01.txt
+0.414151, Mortgage_Rates/article07.txt
+0.419427, Volcano/article04.txt
+0.419427, Volcano/article08.txt
+0.420383, Ocean_and_Pollution/article08.txt
+0.420383, Ocean_and_Pollution/article10.txt
+0.422424, Mortgage_Rates/article02.txt
+0.422424, Mortgage_Rates/article03.txt
+0.425543, Ocean_and_Pollution/article03.txt
+0.425543, Ocean_and_Pollution/article08.txt
+0.434037, Ocean_and_Pollution/article03.txt
+0.434037, Ocean_and_Pollution/article10.txt
+0.440789, Mortgage_Rates/article02.txt
+0.440789, Mortgage_Rates/article08.txt
+0.450561, Mortgage_Rates/article07.txt
+0.450561, Mortgage_Rates/article08.txt
+0.455158, Volcano/article02.txt
+0.455158, Volcano/article07.txt
+0.461034, Mortgage_Rates/article03.txt
+0.461034, Mortgage_Rates/article07.txt
+0.538553, Mortgage_Rates/article03.txt
+0.538553, Mortgage_Rates/article08.txt
+0.611457, Korea_and_Nuclear_Capability/article04.txt
+0.611457, Korea_and_Nuclear_Capability/article05.txt
+0.998439, Amphetamine/article08.txt
+0.998439, Amphetamine/article09.txt
+0.999999, Hoof_and_Mouth_Disease/article07.txt
+0.999999, Hoof_and_Mouth_Disease/article09.txt
+0.999999, Volcano/article05.txt
+1.000000, Airline_Safety/article01.txt
+1.000000, Airline_Safety/article03.txt
+1.000000, Airline_Safety/article04.txt
+1.000000, Airline_Safety/article05.txt
+1.000000, Airline_Safety/article06.txt
+1.000000, Airline_Safety/article07.txt
+1.000000, Airline_Safety/article08.txt
+1.000000, Airline_Safety/article09.txt
+1.000000, Airline_Safety/article10.txt
+1.000000, Amphetamine/article01.txt
+1.000000, Amphetamine/article02.txt
+1.000000, Amphetamine/article03.txt
+1.000000, Amphetamine/article04.txt
+1.000000, Amphetamine/article05.txt
+1.000000, Amphetamine/article05.txt
+1.000000, Amphetamine/article06.txt
+1.000000, Amphetamine/article06.txt
+1.000000, Amphetamine/article07.txt
+1.000000, Amphetamine/article08.txt
+1.000000, Amphetamine/article09.txt
+1.000000, Amphetamine/article10.txt
+1.000000, China_and_Spy_Plane_and_Captives/article01.txt
+1.000000, China_and_Spy_Plane_and_Captives/article02.txt
+1.000000, China_and_Spy_Plane_and_Captives/article03.txt
+1.000000, China_and_Spy_Plane_and_Captives/article04.txt
+1.000000, Hoof_and_Mouth_Disease/article01.txt
+1.000000, Hoof_and_Mouth_Disease/article02.txt
+1.000000, Hoof_and_Mouth_Disease/article03.txt
+1.000000, Hoof_and_Mouth_Disease/article04.txt
+1.000000, Hoof_and_Mouth_Disease/article05.txt
+1.000000, Hoof_and_Mouth_Disease/article06.txt
+1.000000, Hoof_and_Mouth_Disease/article08.txt
+1.000000, Korea_and_Nuclear_Capability/article02.txt
+1.000000, Korea_and_Nuclear_Capability/article03.txt
+1.000000, Korea_and_Nuclear_Capability/article04.txt
+1.000000, Korea_and_Nuclear_Capability/article05.txt
+1.000000, Mortgage_Rates/article01.txt
+1.000000, Mortgage_Rates/article02.txt
+1.000000, Mortgage_Rates/article03.txt
+1.000000, Mortgage_Rates/article04.txt
+1.000000, Mortgage_Rates/article05.txt
+1.000000, Mortgage_Rates/article06.txt
+1.000000, Mortgage_Rates/article07.txt
+1.000000, Mortgage_Rates/article08.txt
+1.000000, Ocean_and_Pollution/article01.txt
+1.000000, Ocean_and_Pollution/article01.txt
+1.000000, Ocean_and_Pollution/article02.txt
+1.000000, Ocean_and_Pollution/article02.txt
+1.000000, Ocean_and_Pollution/article03.txt
+1.000000, Ocean_and_Pollution/article04.txt
+1.000000, Ocean_and_Pollution/article05.txt
+1.000000, Ocean_and_Pollution/article06.txt
+1.000000, Ocean_and_Pollution/article07.txt
+1.000000, Ocean_and_Pollution/article08.txt
+1.000000, Ocean_and_Pollution/article10.txt
+1.000000, Saddam_Hussein_and_WMD/article01.txt
+1.000000, Saddam_Hussein_and_WMD/article02.txt
+1.000000, Saddam_Hussein_and_WMD/article03.txt
+1.000000, Saddam_Hussein_and_WMD/article04.txt
+1.000000, Saddam_Hussein_and_WMD/article05.txt
+1.000000, Saddam_Hussein_and_WMD/article06.txt
+1.000000, Saddam_Hussein_and_WMD/article07.txt
+1.000000, Saddam_Hussein_and_WMD/article08.txt
+1.000000, Saddam_Hussein_and_WMD/article09.txt
+1.000000, Saddam_Hussein_and_WMD/article10.txt
+1.000000, Satanic_Cult/article01.txt
+1.000000, Satanic_Cult/article02.txt
+1.000000, Satanic_Cult/article03.txt
+1.000000, Satanic_Cult/article04.txt
+1.000000, Volcano/article01.txt
+1.000000, Volcano/article02.txt
+1.000000, Volcano/article03.txt
+1.000000, Volcano/article04.txt
+1.000000, Volcano/article06.txt
+1.000000, Volcano/article07.txt
+1.000000, Volcano/article08.txt
+1.000001, Airline_Safety/article02.txt
+1.000001, Korea_and_Nuclear_Capability/article01.txt
+1.000001, Ocean_and_Pollution/article09.txt
+Airline_Safety/article01.txt : 
+Airline_Safety/article02.txt : 
+Airline_Safety/article03.txt : 
+Airline_Safety/article04.txt : 
+Airline_Safety/article05.txt : 
+Airline_Safety/article06.txt : 
+Airline_Safety/article07.txt : 
+Airline_Safety/article08.txt : 
+Airline_Safety/article09.txt : 
+Airline_Safety/article10.txt : 
+Allocating remote memory size = 39936 K bytes for hash_token_sub_tables
+Allocating remote memory size = 512 K bytes for global occurence table.
+Allocating remote memory size = 7488 K bytes for hash_token_tables.
+Amphetamine/article01.txt : 
+Amphetamine/article02.txt : 
+Amphetamine/article03.txt : 
+Amphetamine/article04.txt : 
+Amphetamine/article05.txt : 
+Amphetamine/article06.txt : 
+Amphetamine/article07.txt : 
+Amphetamine/article08.txt : 
+Amphetamine/article09.txt : 
+Amphetamine/article10.txt : 
+China_and_Spy_Plane_and_Captives/article01.txt : 
+China_and_Spy_Plane_and_Captives/article02.txt : 
+China_and_Spy_Plane_and_Captives/article03.txt : 
+China_and_Spy_Plane_and_Captives/article04.txt : 
+corpustime = 1164
+cvtime = 445425
+Hoof_and_Mouth_Disease/article01.txt : 
+Hoof_and_Mouth_Disease/article02.txt : 
+Hoof_and_Mouth_Disease/article03.txt : 
+Hoof_and_Mouth_Disease/article04.txt : 
+Hoof_and_Mouth_Disease/article05.txt : 
+Hoof_and_Mouth_Disease/article06.txt : 
+Hoof_and_Mouth_Disease/article07.txt : 
+Hoof_and_Mouth_Disease/article08.txt : 
+Hoof_and_Mouth_Disease/article09.txt : 
+Korea_and_Nuclear_Capability/article01.txt : 
+Korea_and_Nuclear_Capability/article02.txt : 
+Korea_and_Nuclear_Capability/article03.txt : 
+Korea_and_Nuclear_Capability/article04.txt : 
+Korea_and_Nuclear_Capability/article05.txt : 
+loadtime = 1370
+malloc is done.
+Mortgage_Rates/article01.txt : 
+Mortgage_Rates/article02.txt : 
+Mortgage_Rates/article03.txt : 
+Mortgage_Rates/article04.txt : 
+Mortgage_Rates/article05.txt : 
+Mortgage_Rates/article06.txt : 
+Mortgage_Rates/article07.txt : 
+Mortgage_Rates/article08.txt : 
+Ocean_and_Pollution/article01.txt : 
+Ocean_and_Pollution/article02.txt : 
+Ocean_and_Pollution/article03.txt : 
+Ocean_and_Pollution/article04.txt : 
+Ocean_and_Pollution/article05.txt : 
+Ocean_and_Pollution/article06.txt : 
+Ocean_and_Pollution/article07.txt : 
+Ocean_and_Pollution/article08.txt : 
+Ocean_and_Pollution/article09.txt : 
+Ocean_and_Pollution/article10.txt : 
+parsetime = 380038
+preparing time: 22860
+prep token time = 1347
+Saddam_Hussein_and_WMD/article01.txt : 
+Saddam_Hussein_and_WMD/article02.txt : 
+Saddam_Hussein_and_WMD/article03.txt : 
+Saddam_Hussein_and_WMD/article04.txt : 
+Saddam_Hussein_and_WMD/article05.txt : 
+Saddam_Hussein_and_WMD/article06.txt : 
+Saddam_Hussein_and_WMD/article07.txt : 
+Saddam_Hussein_and_WMD/article08.txt : 
+Saddam_Hussein_and_WMD/article09.txt : 
+Saddam_Hussein_and_WMD/article10.txt : 
+Satanic_Cult/article01.txt : 
+Satanic_Cult/article02.txt : 
+Satanic_Cult/article03.txt : 
+Satanic_Cult/article04.txt : 
+start preparing tokens.
+tfidf = 7371
+total kernel time = 388998
+Volcano/article01.txt : 
+Volcano/article02.txt : 
+Volcano/article03.txt : 
+Volcano/article04.txt : 
+Volcano/article05.txt : 
+Volcano/article06.txt : 
+Volcano/article07.txt : 
+Volcano/article08.txt : 

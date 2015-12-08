@@ -1,0 +1,38 @@
+
+#define DEBUG 0
+#define dbg if(DEBUG)
+
+#define TOKEN_MAX_SIZE_PLUS_END 32
+#define TOKEN_MAX_SIZE 31
+#define MAX_THREADS 1024
+
+#define MAX_GRID_SIZE 16   // number of blocks
+
+
+
+
+#define HASH_DOC_TOKEN_BUCKET_SUB_SIZE 4
+#define HASH_DOC_TOKEN_BUCKET_SIZE 12
+#define OCC_HASH_TABLE_BUCKET_SIZE 16
+
+// warning: keep the following defines consistent 
+#define HASH_DOC_TOKEN_SUB_TABLE_SIZE  64  // must be 2 to the power of some number
+#define HASH_DOC_TOKEN_SUB_TABLE_SIZE_LOG2  6  //  2^6 = 64
+#define HASH_DOC_TOKEN_TABLE_SIZE  256  // must be 2 to the power of some number
+#define HASH_DOC_TOKEN_TABLE_SIZE_LOG2 8  // 2^8 = 256
+#define OCC_HASH_TABLE_SIZE 1024
+#define OCC_HASH_TABLE_SIZE_LOG2 10  // 2^10 = 1024
+
+#define HASH_DOC_TOKEN_NUM_THREADS HASH_DOC_TOKEN_SUB_TABLE_SIZE
+
+#define THREADS_X 16
+#define THREADS_Y 16
+#define THREADS_COUNT THREADS_X * THREADS_Y
+#define TOKENS_PER_PACKET 64
+#define PACKET_HASH_BUFFER 8
+#define PACKET_SIZE THREADS_COUNT*1 /*TOKENS_PER_PACKET*PACKET_HASH_BUFFER*/
+#define PACKET_COUNT THREADS_COUNT
+#define STEP1A_SUBRANGE 4
+#define STEP1B_RANGE 16
+#define STEP1B_SUBRANGE 4
+#define STEP2_RANGE 64
