@@ -5,10 +5,9 @@ HOST_COMPILER ?= g++
 NVCC          := $(CUDA_PATH)/bin/nvcc -ccbin $(HOST_COMPILER)
 
 INCLUDES  += -I. -I/ncsu/gcc346/include/c++/ -I/common/inc 
-LIB       := -L/ncsu/gcc346/lib
 
 all: 
-	$(NVCC) -g cuda_k.cu Main.cpp -o Main $(INCLUDES) $(LIB)
+	$(NVCC) -g cuda_k.cu Main.cpp -o Main $(INCLUDES)
 
 clean:
 	rm -f *.o $(EXECUTABLE)
